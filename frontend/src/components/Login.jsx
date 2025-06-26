@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
@@ -64,9 +64,7 @@ export default function DevTinderHomepage() {
           {/* Login / SignUp Card */}
           <div className="w-full max-w-sm bg-black/70 backdrop-blur-md rounded-xl p-6 shadow-2xl border border-gray-600">
             <div className="text-white text-center mb-6">
-              <h2 className="text-2xl font-semibold">
-                Welcome to DevTinder 👋
-              </h2>
+              <h2 className="text-2xl font-semibold">Welcome to DevX 👋</h2>
               <p className="text-sm text-gray-300">
                 Find developer friends. Match. Collaborate. Build.
               </p>

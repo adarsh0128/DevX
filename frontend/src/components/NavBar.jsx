@@ -26,7 +26,7 @@ const NavBar = () => {
           to="/"
           className="text-xl font-bold tracking-wide hover:scale-105 transition-transform duration-200"
         >
-         DevTinder
+          DevX
         </Link>
       </div>
 
